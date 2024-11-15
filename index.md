@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi everyone, Welcome to my page, I am HimaziN'
+landing-title: 'Hi everyone <br /> Welcome to my page <br />I am HimaziN'
 description: null
 image: 'assets\images\icon_usa.png'
 author: 'HimaziN'
