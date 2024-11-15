@@ -4,6 +4,7 @@ emoji: "😯"
 type: idea
 topics: [3Dプリンター, 日記]
 published: true
+layout : post
 ---
 # 最初に
 初めまして超暇ノ住民と申します
