@@ -7,7 +7,7 @@ description: null
 image: null
 author: null
 show_tile: false
-permlink: /app_posts/
+# permlink: /app_posts/
 ---
 
 <h1>All posts</h1>
