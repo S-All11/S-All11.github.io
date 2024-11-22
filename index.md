@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'こんにちは <br /> ようこそ暇人の巣窟へ <br />私が超暇ノ住民だ'
+landing-title: '暇人のアジトへ <br /> ようこそ! <br />私が超暇ノ住民だ'
 description: null
 image: 'assets\images\icon_usa.png'
 author: 'HimaziN'
