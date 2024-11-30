@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elements
-image: assets\images\pic12.png
+image: assets/images/pic12.png
 nav-menu: true
 # permlink: /elements/
 ---
