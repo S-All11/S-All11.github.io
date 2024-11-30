@@ -2,7 +2,7 @@
 layout: post
 title: Generic
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets\images\moon_umbrella\umbrella3.png
 nav-menu: true
 # permlink: /generic/
 ---
