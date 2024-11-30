@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elements
-image: assets\images\moon_umbrella\umbrella6.png
+image: assets/images/pic01.jpg
 nav-menu: true
 # permlink: /elements/
 ---
