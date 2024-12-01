@@ -59,7 +59,7 @@ Autodesk社が毎月開催されるコンテストでAutodesk Fusionを
 ![](/images/neopxc7.png)
 ## テーマ「夏祭り」二度目の入賞は作品「灼熱ノ奇才」
 
-[Fusion学生デザインコンテスト「夏祭り」の結果発表ページ](hhttps://www.myautodesk.jp/fusion-contest-2024/contest-result-04.html)
+[Fusion学生デザインコンテスト「夏祭り」の結果発表ページ](https://www.myautodesk.jp/fusion-contest-2024/contest-result-04.html)
 
 [Fusion学生デザインコンテスト「夏祭り」の結果発表の動画](https://www.youtube.com/watch?v=8jfWrGzYSYY)
 ![](assets\images\fire_carnival\fire1.jpg)
