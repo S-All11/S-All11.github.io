@@ -8,10 +8,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 #author:
 #street_address: 1234 Somewhere Road
-city: 
+# city: 
 #state: TN
 #zip_code: 55555
-country: Japan
+# country: Japan
 #phone: (810) 111-1111
 
 # homepage tiles
@@ -28,7 +28,7 @@ socials:
   #Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
   #Instagram:
   #LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  # X: https://twitter.com/andrewbanchich
+  X: https://x.com/HyperHimaHuman
   Facebook: https://www.facebook.com/profile.php?id=100094647395938
   #Slack:
 
