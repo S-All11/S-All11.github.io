@@ -36,13 +36,16 @@ Autodesk社が毎月開催されるコンテストでAutodesk Fusionを
 
 ![](/images/neopxc6.png)
 ## テーマ「傘」二度目の入賞は作品「月傘」
+
 最初に入賞した作品は月傘でした
 
 [Fusion学生デザインコンテスト「傘」の結果発表ページ](https://www.myautodesk.jp/fusion-contest-2024/contest-result-03.html)
+
 実はこれ製作に1時間もかかってないんです。
 ですのでこの作品が入賞した際は正直驚きました。
 しかし発表の動画の中でしっかりと評価してもらえた
 点についてを紹介してくださいり参考になりました。
+
 [Fusion学生デザインコンテスト「傘」の結果発表の動画](https://www.youtube.com/watch?v=pmlFFgqQE9A)
 
 入賞できても振り返ればいくらでも後悔や反省点はあるものです
@@ -55,9 +58,12 @@ Autodesk社が毎月開催されるコンテストでAutodesk Fusionを
 
 ![](/images/neopxc7.png)
 ## テーマ「夏祭り」二度目の入賞は作品「灼熱ノ奇才」
+
 [Fusion学生デザインコンテスト「夏祭り」の結果発表ページ](hhttps://www.myautodesk.jp/fusion-contest-2024/contest-result-04.html)
+
 [Fusion学生デザインコンテスト「夏祭り」の結果発表の動画](https://www.youtube.com/watch?v=8jfWrGzYSYY)
 ![](assets\images\fire_carnival\fire1.jpg)
+
 ## 振り返って...入賞のチャンスだと思った
 入賞する前からおそらく上位に入れそうと思ったきっかけがあります。
 作品を紹介してもらえたことがありその頻度が徐々に増えていきます。
