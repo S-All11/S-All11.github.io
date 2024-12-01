@@ -14,9 +14,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>砂時計の可視化装置</h2>
+			<h2>コンテストに応募した作品をご紹介</h2>
 		</header>
-		<p></p>
+		<p>ご好評いただいた作品たちです。</p>
 	</div>
 </section>
 
@@ -24,7 +24,23 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets\images\hourglass\hourglass1.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>砂時計と時間の可視化装置</h3>
+				</header>
+				<p>砂時計をぶった切って砂が落ち来る部分から重さを図り時間を測定する装置を考えてみました。</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets\images\moon_umbrella\umbrella6.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -45,7 +61,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets\images\fire_carnival\fire2.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,22 +71,6 @@ nav-menu: true
 				<p>地元で行われる三大奇才と呼ばれる祭りの１つをモチーフにそのワンシーンをFusion360でデザインにしてみた感じです。人間の伸長を超える大きな松明を担ぎ篝火をつけて真夜中に儀式を行う祭りです。
 				Fusionで炎の表現がかなり難しく残念ながら本物の再現にはできずまた本家の祭りとも結構違う部分があるのですが雰囲気は案外似せられているのではと思います。
 				これ夏祭りかとツッコまれると耳が痛いですが夏の季節に行われる火祭りが全国には結構あるのでそんな感じで夏祭りということにしてください。もし真相に気づいた詳しい人がいらしても内緒ですよ。</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
