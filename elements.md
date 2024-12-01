@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: ただいま準備中
 image: assets/images/pic12.png
 nav-menu: true
 # permlink: /elements/
