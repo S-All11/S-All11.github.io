@@ -1,14 +1,21 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: このサイトについて
+description: ポートフォリオをご覧くださりありがとうございます。
 image: assets/images/pic14.jpg
 nav-menu: true
 # permlink: /generic/
 ---
+# このサイトのモットーについて
+当サイトをご覧ください誠にありがとうございます。
+このサイトは通りすがりの暇人こと超暇ノ住民である私が製作したものを紹介するための
+ポートフォリオサイトです。モノ作りが好きで活動・趣味の一環としてあれこれを掲載していきます。
+興味があればぜひこのサイトをお気に入りしていただきその他のページもご覧いただければ
+大変うれしく思います。このサイトを情報を中心に発信していきますのでぜひご注目ください。
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+またもし私の発信に共感いただいた同志の方がいらしたらぜひFacebookなどのSNSで
+ポートフォリオを見たよとダイレクトメッセージをくださればお返事させて頂きます。
+同じ興味を持つ方々と何か一緒に作りたいと思っております。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+また今後は個人活動として製作したものを公開・販売なども行っていけたらいいなと
+考えておりますのでよろしければこちらもあわせて情報のフォローもお願いいたします。
