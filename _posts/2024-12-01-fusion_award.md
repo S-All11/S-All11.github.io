@@ -46,7 +46,9 @@ Autodesk社が毎月開催されるコンテストでAutodesk Fusionを
 しかし発表の動画の中でしっかりと評価してもらえた
 点についてを紹介してくださいり参考になりました。
 
-<video src="https://www.youtube.com/watch?v=pmlFFgqQE9A" controls="true"></video>
+<div>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/pmlFFgqQE9A"></iframe>
+</div>
 [Fusion学生デザインコンテスト「傘」の結果発表の動画](https://www.youtube.com/watch?v=pmlFFgqQE9A)
 
 入賞できても振り返ればいくらでも後悔や反省点はあるものです
@@ -62,7 +64,9 @@ Autodesk社が毎月開催されるコンテストでAutodesk Fusionを
 
 [Fusion学生デザインコンテスト「夏祭り」の結果発表ページ](https://www.myautodesk.jp/fusion-contest-2024/contest-result-04.html)
 
-<video src="https://www.youtube.com/watch?v=8jfWrGzYSYY" controls="true"></video>
+<div>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/8jfWrGzYSYY"></iframe>
+</div>
 [Fusion学生デザインコンテスト「夏祭り」の結果発表の動画](https://www.youtube.com/watch?v=8jfWrGzYSYY)
 
 ![](assets\images\fire_carnival\fire1.jpg)
