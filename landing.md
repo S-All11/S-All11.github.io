@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: 作品集
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'ご興味があればぜひご覧ください'
 image: assets/images/pic13.png
 nav-menu: true
 # permlink: /landing/
@@ -16,7 +16,7 @@ nav-menu: true
 		<header class="major">
 			<h2>コンテストに応募した作品をご紹介</h2>
 		</header>
-		<p>ご好評いただいた作品たちです。</p>
+		<p>ご好評いただいた作品たちです。ご興味があればぜひご覧ください。</p>
 	</div>
 </section>
 
