@@ -24,6 +24,22 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
+			<img src="{% link assets/images/wish_desk/wish desk2.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>フライトシミュレーターデスク</h3>
+				</header>
+				<p>湾曲ディスプレイとゲーミングデスクの組み合わせは最強です。</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
 			<img src="{% link assets/images/hourglass/hourglass1.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -40,7 +56,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/moon_umbrella/umbrella6.png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/moon_umbrella/umbrella3.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
