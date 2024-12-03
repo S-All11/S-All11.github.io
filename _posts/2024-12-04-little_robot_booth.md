@@ -3,7 +3,7 @@ title: "小学校のボランティアで子供たちにプログラミング体
 emoji: "😯"
 type: idea
 topics: [3DCAD, 日記]
-published: true
+published: false
 layout : post
 ---
 # ご挨拶
