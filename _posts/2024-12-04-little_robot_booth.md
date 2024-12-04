@@ -3,7 +3,7 @@ title: "小学校のボランティアで子供たちにプログラミング体
 emoji: "😯"
 type: idea
 topics: [3DCAD, 日記]
-published: false
+published: true
 layout : post
 ---
 # ご挨拶
@@ -36,7 +36,7 @@ layout : post
 
 ## 120人は結構多い
 
-## バグが見つかって
+## トラブル発生バグが見つかる
 
 ## 参加した感想
 
