@@ -19,7 +19,7 @@ layout : post
 体育館が開催場所となり本校の5年生から6年生が参加して下さいました。
 自分たち以外には企業さんが4社出展されていて皆さんがご用意された
 展示品のレベルが高く子供たちを楽しませたいという気合を感じました。
-<!-- ![](assets\images\aurora_revolution\neopxc.png) -->
+![](images\small_bot_expo.jpg)
 
 ## 出展したものがこちら
 
@@ -29,8 +29,9 @@ layout : post
 どちらもボタン操作だけでプログラミングの体験をできるものとして
 事前に用意したコードを書き込んでおきそのUIの中で子供たちが
 自分の好きな動きを実装できるといった具合です。
-<!-- ![](assets\images\aurora_revolution\neopxc.png) -->
-<!-- ![](assets\images\aurora_revolution\neopxc.png) -->
+<!-- ![](image) -->
+![](images\small_bot_expo.jpg2)
+<video src="images\neopx_xmas.mp4" controls="true"></video>
 
 ## 参加した経緯
 
